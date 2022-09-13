@@ -10,7 +10,7 @@ Ao final, deveremos imprimir primeiro o array de pares, e em seguida, imprimir o
 
 Portanto, para os arrays de exemplo abaixo
 
-```javascript=
+```javascript
 const original = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const pares = [];
 const impares = [];
@@ -31,9 +31,9 @@ Deveremos imprimir no console
 
 Preencha a checklist para finalizar o exercício:
 
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
+- [ ] Resolver o exercício revendo a aula se necessário
+- [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
 
 ###### tags: `lógica` `módulo 1` `exercício de classe` `nodeJS`
