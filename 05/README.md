@@ -4,11 +4,15 @@
 
 ## Filtrando apenas os pares
 
-Declare um array com alguns números inteiros quaisquer.
+Dado o array abaixo.
 
-Depois, crie um novo array que contenha apenas os números **pares** do array original.
+```javascript
+const original = [1, 4, 12, 21, 53, 88, 112];
+```
 
-Ao final, imprima a variável do array no console.
+Percorra-o, de modo que crie um novo array que contenha apenas os números **pares** do array original.
+
+Ao final, imprima a variável do array contendo apenas os números pares no console.
 
 Exemplo:
 
